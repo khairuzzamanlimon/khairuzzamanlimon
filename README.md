@@ -132,18 +132,6 @@ I’m **Limon**, a student and developer who enjoys building practical software,
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="95%" />
-</p>
-
-<p align="center">
-  <sub>Keep contributing... the snake never stops! 🐍</sub>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
