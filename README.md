@@ -1,5 +1,5 @@
 <!--
-  GitHub Profile README — Limon
+  GitHub Profile README — Khairuzzaman Limon Limon
   GitHub: https://github.com/khairuzzamanlimon
 -->
 
@@ -34,6 +34,10 @@ I’m **Limon**, a student and developer who enjoys building practical software,
 > 💚 **A better me is always a work in progress.**
 
 ---
+<!--
+  GitHub Profile README — Khairuzzaman Limon Limon
+  GitHub: https://github.com/khairuzzamanlimon
+-->
 
 ## 🛠️ Tech Stack
 
@@ -81,6 +85,11 @@ I’m **Limon**, a student and developer who enjoys building practical software,
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 </p>
 
+<!--
+  GitHub Profile README — Khairuzzaman Limon Limon
+  GitHub: https://github.com/khairuzzamanlimon
+-->
+
 ### Tools & Platforms
 
 <p align="left">
@@ -112,6 +121,10 @@ I’m **Limon**, a student and developer who enjoys building practical software,
 </p>
 
 ---
+<!--
+  GitHub Profile README — Khairuzzaman Limon Limon
+  GitHub: https://github.com/khairuzzamanlimon
+-->
 
 ## 🤝 Connect With Me
 
@@ -126,3 +139,8 @@ I’m **Limon**, a student and developer who enjoys building practical software,
 <p align="center">
   <strong>limon@github:~$ Thanks for visiting! ♡</strong>
 </p>
+
+<!--
+  GitHub Profile README — Khairuzzaman Limon Limon
+  GitHub: https://github.com/khairuzzamanlimon
+-->
