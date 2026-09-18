@@ -1,14 +1,7 @@
 <!--
   GitHub Profile README — Limon
   GitHub: https://github.com/khairuzzamanlimon
-
-  Keep the assets/ folder beside this README so the neon hero section
-  renders exactly as intended.
 -->
-
-<p align="center">
-  <img src="./assets/neon-hero.png" alt="Limon — Neon Cyberpunk GitHub Profile" width="100%" />
-</p>
 
 <h1 align="center">Hi, I’m Limon 👋</h1>
 
@@ -106,8 +99,6 @@ I’m **Limon**, a student and developer who enjoys building practical software,
 </p>
 
 ---
-
-## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/khairuzzamanlimon">
