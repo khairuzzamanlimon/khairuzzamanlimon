@@ -118,10 +118,6 @@ I’m **Limon**, a student and developer who enjoys building practical software,
   </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=khairuzzamanlimon&theme=tokyonight&hide_border=true&background=0B1020" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 😂 Random Joke
