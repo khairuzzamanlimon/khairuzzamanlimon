@@ -131,7 +131,7 @@ I’m **Khairuzzaman Limon**, a student and developer who enjoys building practi
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://guns.lol/mrunknown909">
-    <img src="https://assets.guns.lol/favicon/apple-touch-icon.png" alt="GitHub" />
+    <img src="https://assets.guns.lol/favicon/apple-touch-icon.png?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
