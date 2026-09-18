@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Limon**, a student and developer who enjoys building practical software, exploring new technologies, and turning ideas into real experiences. I like working across the stack — from UI and APIs to databases, storage, cloud infrastructure, and servers.
+I’m **Khairuzzaman Limon**, a student and developer who enjoys building practical software, exploring new technologies, and turning ideas into real experiences. I like working across the stack — from UI and APIs to databases, storage, cloud infrastructure, and servers.
 
 <table>
   <tr>
