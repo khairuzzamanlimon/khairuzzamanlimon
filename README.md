@@ -111,7 +111,7 @@ I’m **Limon**, a student and developer who enjoys building practical software,
 
 <p align="center">
   <a href="https://github.com/khairuzzamanlimon">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=khairuzzamanlimon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0B1020" alt="GitHub Stats" />
+    <img height="180" src="[https://github-readme-stats.vercel.app/api?username=khairuzzamanlimon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0B1020](https://github-stats-extended.vercel.app/api?username=khairuzzamanlimon&show_icons=true&include_all_commits=true&theme=dark_github)"/>
   </a>
   <a href="https://github.com/khairuzzamanlimon">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairuzzamanlimon&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0B1020" alt="Top Languages" />
