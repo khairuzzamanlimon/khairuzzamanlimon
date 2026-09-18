@@ -155,9 +155,5 @@ I’m **Limon**, a student and developer who enjoys building practical software,
 ---
 
 <p align="center">
-  <code>limon@github:~$ Thanks for visiting! ♡</code>
-</p>
-
-<p align="center">
-  <strong>Build • Learn • Improve • Repeat</strong>
+  <strong>limon@github:~$ Thanks for visiting! ♡</strong>
 </p>
