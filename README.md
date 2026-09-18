@@ -102,10 +102,10 @@ I’m **Limon**, a student and developer who enjoys building practical software,
 
 <p align="center">
   <a href="https://github.com/khairuzzamanlimon">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=khairuzzamanlimon&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Stats" />
+    <img height="200" src="https://github-stats-extended.vercel.app/api?username=khairuzzamanlimon&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/khairuzzamanlimon">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=khairuzzamanlimon&langs_count=6&theme=dark_github" alt="Top Languages" />
+    <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=khairuzzamanlimon&langs_count=6&theme=dark_github" alt="Top Languages" />
   </a>
 </p>
 
