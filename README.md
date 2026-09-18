@@ -126,7 +126,7 @@ I’m **Khairuzzaman Limon**, a student and developer who enjoys building practi
 </p>
 
 <p align="center">
-  <strong>limon@github:~$ Thanks for visiting! ♡</strong>
+  <strong>limon@github:~$ Thanks for visiting! ❤️</strong>
 </p>
 <!--
   GitHub Profile README — Khairuzzaman Limon Limon
